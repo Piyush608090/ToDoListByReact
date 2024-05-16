@@ -1,7 +1,8 @@
 # ToDoListByReact
 A ToDo App Where You Can Add,Update,Delete Do This Operations By Using API
 <br>
-Technology Use: 
+Technology Use:React,useState,Toast etc
+<br>
 Main Home Page
 ![Screenshot (22)](https://github.com/Piyush608090/ToDoListByReact/assets/119125610/8966747c-e030-493c-9b79-00bf53c89f27)
 Update Page
