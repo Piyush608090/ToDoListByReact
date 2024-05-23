@@ -1,4 +1,18 @@
-Project Hosted Link:https://6645d92fe7ad0489047653e9--dynamic-hamster-66f23c.netlify.app/
+Project Hosted Link:https://664ee266ab580ab8ca858802--elaborate-trifle-8a5c9f.netlify.app/
+<h1>ToDo List Using React </h1><br>
+<h2> Technology Use</h2><br>
+1.React <br>
+2.usestate <br>
+3.useEffect <br>
+4.ToastConainer etc <br>
+<h1>Features</h1><br>
+1.Add To Do <br>
+2.Remove To Do <br>
+3.Update To Do <br>
+4.Check To Do <br>
+<h6>Preview</h6> <br>
+![Screenshot (31)](https://github.com/Piyush608090/ToDoListByReact/assets/119125610/bdedfaad-47cd-47aa-bd4b-8263c4e6f5ac)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
