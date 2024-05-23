@@ -17,7 +17,11 @@ function App() {
   // check TaskCompleated
   const handleCheckTask = (index) => {
   const data = todos.find((todo)=>todo.id===index)
-  data.completed = true
+  if (data.completed === false){
+    data.completed = true
+  }else{
+  data.completed = false 
+  }
   const updatedTask = {
   completed: true,
   };
